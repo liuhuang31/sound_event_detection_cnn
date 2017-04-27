@@ -3,6 +3,10 @@ The original code is here https://github.com/gorinars/dcase16-cnn
 
 Because the original code has some problem, which i changed some places to make it works.
 
+## First, you should install the requirements which in requirements.txt
+If can't run the following commands,maybe the version of keras is too high.
+You can use the provided file :Keras-1.2.2.tar.gz.
+
 ## Basic usage
 
 *run-cnn-pipeline.sh* - complete self-documented script for reproducing all the experiments including the following:
